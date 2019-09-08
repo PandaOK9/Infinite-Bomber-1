@@ -1,3 +1,7 @@
+# This Repo Was Commited By SpeedX's Commit Bot
+### GITHUB LINK
+<a href='https://github.com/thespeedx/commit-bot'> Click Here </a>
+
 # SMS_CALL_TOR_bomber
 ## How install
    1. Download from https://yadi.sk/d/k65sAT2hN_WWoA
@@ -12,3 +16,7 @@
 #  Result
 
    ![alt text](https://user-images.githubusercontent.com/40857994/64142837-658f4000-ce16-11e9-966f-ec8a84028c16.png)
+# This Repo Was Commited By SpeedX's Commit Bot
+### GITHUB LINK
+<a href='https://github.com/thespeedx/commit-bot'> Click Here </a>
+
