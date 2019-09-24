@@ -15,7 +15,9 @@
 
    ![alt text](https://user-images.githubusercontent.com/40857994/64142837-658f4000-ce16-11e9-966f-ec8a84028c16.png)
    
-#### Sponsor Or Donat
- XMR  432v2U2gDKtj423GpG8h5NdT4sMKtVJje1um2RxirtYdGdAqrWqn9JSAVmfUsCE5FUNMUcTvHDvLPAfPKeESmB4yCUiVa6Y
+#### Donat 
+     qiwi +79635621501
+     yandex money +79635621501
+     XMR wallet 47jucnBWsv8M7fPknYw96ECqpSmtT3ZewMMUvSxPNeeMS5isxunL7oeg8fSQMgXYEN8BQfrJfhvbNSoM4CNtM5hUFg9Fr41
  ######### ff
          https://yadi.sk/d/QxRaiGlTWAGmcw
