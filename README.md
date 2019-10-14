@@ -22,7 +22,7 @@
 ## How install
    1. Download from https://yadi.sk/d/k65sAT2hN_WWoA
    2. Cd to builds/windows/Infinite-Bomber-x64 or Infinite-Bomber-x86
-   3. Start start.bat        
+   3. Start infinite-bomber.exe        
       ![alt text](https://user-images.githubusercontent.com/40857994/64142828-5f00c880-ce16-11e9-874b-95f00930dd40.png)
    4. Next to       
       ![alt text](https://user-images.githubusercontent.com/40857994/64142830-6031f580-ce16-11e9-8531-ecaedff00aec.png)
