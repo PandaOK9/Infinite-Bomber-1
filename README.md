@@ -1,6 +1,13 @@
 
 
 # Infinite Bomber
+
+### !!! Very big updates !!!
+
+    Attention we have released version 2.0
+    It has a lot of improvements and fixes
+    In detail in the Issues and update.vr.2.0.txt
+
 ## How install
    1. Download from https://yadi.sk/d/k65sAT2hN_WWoA
    2. Cd to builds/windows/Infinite-Bomber-x64 or Infinite-Bomber-x86
@@ -18,5 +25,3 @@
 #### Donat 
      qiwi +79635621501
      yandex money +79635621501
- ######### V.2
-         https://yadi.sk/d/QxRaiGlTWAGmcw
